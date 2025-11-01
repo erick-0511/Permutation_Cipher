@@ -98,4 +98,4 @@ string permutation_cipher(vector<vector<char>>message, vector<int> permutation, 
             finalText += message[i][permutation[j]-1];
 
     return finalText;
-}
+} 
