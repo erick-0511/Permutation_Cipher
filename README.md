@@ -11,9 +11,6 @@ To decrypt, a permutation is used:
 
 <div align="center">P<sup>-1</sup>: x -> x</div>
 
-Where:
-- The permutation takes a value from P and changes it to another value of P
-
 ## Characteristics
 - Read a file text (message) without extension (It's assumed to be .txt)
 - Read a permutation (for example: 4 5 2 1 3)
